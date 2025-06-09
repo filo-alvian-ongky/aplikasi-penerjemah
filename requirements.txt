@@ -1,6 +1,6 @@
 streamlit
 transformers
 torch
-sentencepiece==0.1.97
+sentencepiece
 accelerate
 pandas
